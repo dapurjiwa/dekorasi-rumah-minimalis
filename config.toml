@@ -1,6 +1,6 @@
 baseURL = 'https://dekorasi-rumah-minimalis.netlify.app/'
 languageCode = 'id-id'
-defaultContentLanguage = 'id
+defaultContentLanguage = 'id'
 title = 'Dekorasi Rumah Minimalis'
 theme = "ghostwriter"
 
