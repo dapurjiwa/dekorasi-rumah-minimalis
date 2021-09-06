@@ -1,7 +1,14 @@
-baseURL = '/'
-languageCode = 'id-ID'
+baseURL = 'https://dekorasi-rumah-minimalis.netlify.app/'
+languageCode = 'id-id'
+defaultContentLanguage = 'id
 title = 'Dekorasi Rumah Minimalis'
 theme = "ghostwriter"
+
+[author]
+    name = "Dapur Jiwa"
+    homepage = "https://www.dapurjiwa.com"
+    bio = "Pengamat Langit"
+    image = "https://lh5.googleusercontent.com/-h2tLsyijw8Q/AAAAAAAAAAI/AAAAAAAACys/WBpjN_34z3o/s32-c/photo.jpg"
 
 [Params]
     mainSections = ["posts"]
