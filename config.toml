@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dekorasi-rumah-minimalis.netlify.app'
 languageCode = 'id-ID'
 title = 'Dekorasi Rumah Minimalis'
 theme = "ghostwriter"
