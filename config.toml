@@ -12,7 +12,7 @@ theme = "ghostwriter"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
     rss= true
-    enableRobotsTXT: true
+    enableRobotsTXT= true
 
 [Permalinks]
     post = "/:filename/"
