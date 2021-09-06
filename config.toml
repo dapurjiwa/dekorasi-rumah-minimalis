@@ -20,6 +20,7 @@ theme = "ghostwriter"
     dateFormat = "Mon, Jan 2, 2006"
     rss= true
     enableRobotsTXT= true
+    searchEngineURL = "https://www.google.com/search"
 
 [Permalinks]
-    post = "/:filename/"
+    post = "/:slug/"
