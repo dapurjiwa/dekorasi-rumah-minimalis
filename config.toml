@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'id-ID'
+title = 'Dekorasi Rumah Minimalis'
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["posts"]
+    intro = true
+    headline = "Dekorasi Rumah Minimalis"
+    description = "Kami Menyajikan berbagai ide dekorasi rumah minimalis Indonesia untuk kebutuhan desain rumah anda."
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+    rss= true
+
+[Permalinks]
+    post = "/:filename/"
